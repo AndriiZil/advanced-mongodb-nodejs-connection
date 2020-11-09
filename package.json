@@ -1,0 +1,26 @@
+{
+  "name": "advanced-mongodb-nodejs-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/advanced-mongodb-nodejs-connection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/advanced-mongodb-nodejs-connection/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/advanced-mongodb-nodejs-connection#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.13"
+  }
+}
